@@ -35,3 +35,5 @@ using (var scope = app.Services.CreateScope())
 ```
 Este bloco garante que o banco de dados esteja sempre atualizado com as últimas migrations sem intervenção manual.
 
+
+**Observação:** Inclusão do Link no Template padrão para `Tarefas`
